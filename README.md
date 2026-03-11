@@ -18,7 +18,7 @@ Welcome to the React PDF Kit Starter Toolkit! This repository provides a compreh
 1. **Clone the Repository**: If you haven't already, clone the repository and navigate into the project directory.
 
    ```bash
-   git clone https://github.com/porames-at/starter-rp-docusaurus-js.git
+   git clone https://github.com/react-pdf-kit/starter-rp-docusaurus-js.git
    cd starter-rp-docusaurus-js
    ```
 
